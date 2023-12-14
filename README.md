@@ -30,7 +30,7 @@
 
 ## 系统的功能展示图
 
-### 爬虫的功能结果图：
+### 爬虫的功能结果图
 <table>
   <tr>
     <td><img src=./img/4.png/></td>
@@ -38,5 +38,26 @@
   </tr>
   <tr>
     <td><img src=./img/6.png/></td>
+  </tr>
+</table>
+
+
+### 前端页面展示
+<table>
+  <tr>
+    <td><img src=./img/7.png/></td>
+    <td><img src=./img/8.png/></td>
+  </tr>
+  <tr>
+    <td><img src=./img/9.png/></td>
+    <td><img src=./img/10.png/></td>
+  </tr>
+  <tr>
+    <td><img src=./img/11.png/></td>
+    <td><img src=./img/12.png/></td>
+  </tr>
+  <tr>
+    <td><img src=./img/13.png/></td>
+    <td><img src=./img/14.png/></td>
   </tr>
 </table>
